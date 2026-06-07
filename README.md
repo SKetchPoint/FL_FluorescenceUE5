@@ -5,4 +5,4 @@ The following is the deliverables:
 - Paper giving an overview of the researh project
 - Video giving a short overview
 
-[![Link to overview]([https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4](https://github.com/SKetchPoint/FL_FluorescenceUE5/blob/main/RD_Fluro_Export_VSubmission.mp4))
+![Link to overview- need to download](https://github.com/SKetchPoint/FL_FluorescenceUE5/blob/main/RD_Fluro_Export_VSubmission.mp4)
